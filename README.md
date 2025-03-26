@@ -16,7 +16,7 @@ A comprehensive Natural Language Processing (NLP) project for sentiment analysis
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis
+git clone https://github.com/gitarber/sentiment-analysis
 cd sentiment-analysis
 ```
 
@@ -84,6 +84,17 @@ sentiment-analysis/
 - Model comparison charts
 - Feature importance analysis
 - Attention weights visualization (for LSTM)
+
+## 📸 Screenshots
+
+### Model Performance
+![Model Performance](screenshots/model_performance.png)
+
+### API Interface
+![API Interface](screenshots/api_interface.png)
+
+### Visualization Examples
+![Visualization Examples](screenshots/visualizations.png)
 
 ## 🧪 Testing
 
